@@ -35,9 +35,6 @@ Web developer graduated in the 2022/23 course looking for work.
     <td align="center" width="96">
         <img src="./img/firebase.svg" width="48" height="48" alt="Firebase" />
     </td>
-    <td align="center" width="96">
-        <img src="./img/git.svg" width="48" height="48" alt="Git" />
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -64,6 +61,9 @@ Web developer graduated in the 2022/23 course looking for work.
     <td align="center" width="96">
         <img src="./img/angular.svg" width="48" height="48" alt="angular" />
     </td>
+    <td align="center" width="96">
+        <img src="./img/git.svg" width="48" height="48" alt="Git" />
+    </td>
   </tr>
  </table>
 
@@ -71,5 +71,5 @@ Web developer graduated in the 2022/23 course looking for work.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="mailto:lucasmendezbaca@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:lucasmendezbaca@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lucasmendezbaca@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
