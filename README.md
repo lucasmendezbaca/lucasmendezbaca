@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Lucas.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -44,6 +44,12 @@ Web developer graduated in the 2022/23 course looking for work.
         <img src="./img/php.svg" width="48" height="48" alt="PHP" />
     </td>
     <td align="center" width="96">
+        <img src="./img/laravel.svg" width="48" height="48" alt="Laravel" />
+    </td>
+    <td align="center" width="96">
+        <img src="./img/symfony.svg" width="48" height="48" alt="Symfony" />
+    </td>
+    <td align="center" width="96">
         <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap 5" />
     </td>
     <td align="center" width="96">
@@ -54,9 +60,6 @@ Web developer graduated in the 2022/23 course looking for work.
     </td>
     <td align="center" width="96">
         <img src="./img/vueJS.svg" width="48" height="48" alt="vueJS" />
-    </td>
-    <td align="center" width="96">
-        <img src="./img/json.svg" width="48" height="48" alt="JSON" />
     </td>
     <td align="center" width="96">
         <img src="./img/angular.svg" width="48" height="48" alt="angular" />
